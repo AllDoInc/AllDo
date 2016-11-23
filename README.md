@@ -6,5 +6,5 @@ This file will hold the assignments that need to be done.<br>
 1.Create Project Diagram [ ] <br>
 2.Create DataBase        [ ] <br>
 3.Set Deadlines          [ ] <br>
-4.Watch porn             [ ] <br>
+
 
